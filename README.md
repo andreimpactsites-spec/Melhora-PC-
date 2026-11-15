@@ -1,4 +1,4 @@
-# ⚡ RAM Booster Core (Community Edition)
+# ⚡ Melhora PC (Community Edition)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-0078D6.svg)](https://microsoft.com/windows)
@@ -6,8 +6,8 @@
 [![Kernel](https://img.shields.io/badge/API-Win32%20%26%20NT%20Native-00E5FF.svg)](#native-architecture)
 [![Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Single%20Binary)-brightgreen.svg)](#)
 
-> **High-Performance Windows Kernel NT Memory Optimizer & AI Process Sentinel.**  
-> Pure C# / Native x64 utility with zero external dependencies, designed to prevent Windows freezing and memory thrashing in heavy AI, local LLM, and developer workloads.
+> **Melhora PC — Otimizador de Memória no Kernel NT & Sentinela de Processos de IA.**  
+> Utilitário nativo x64 em C# puro com zero dependências externas, projetado para impedir travamentos e esgotamento de memória no Windows causados por cargas pesadas de agentes de IA, navegadores e ferramentas de desenvolvimento.
 
 ---
 
