@@ -1,0 +1,24 @@
+# Binaries & Compilations
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE / Editors
+.vs/
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs & Dumps
+*.log
+*.tmp
+*.dmp
+*.crashdump
+test.txt
